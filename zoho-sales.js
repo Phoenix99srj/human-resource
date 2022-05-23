@@ -1,0 +1,3 @@
+var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || {widgetcode:"f7dc84c25d4d20396f234de3385627707fee8f48689deb486b3627a9c740e899", values:{},ready:function(){}};var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;s.src="https://salesiq.zoho.in/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);d.write("<div id='zsiqwidget'></div>");
+
+window.ryzeLyZoho = $zoho.salesiq
